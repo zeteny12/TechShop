@@ -1,0 +1,21 @@
+Termékkategóriák:
+	-Okos otthoni eszközök (izzó, kamera stb.)
+	-Mobiltelefon kiegészítők (tok, töltő, kábel, fülhallgató stb.)
+	-Perifériák (egér, billentyűzet, monitor stb.)
+	-Hardverek (processzor, videókártya, memória stb.)
+	-Hordozható eszközök (okosóra, fitnesz karkötő stb.)
+
+Felhasználói élmény:
+	-Reszponzív dizájn
+	-Képek, termékleírások
+
+Felhasználói fiókok és hitelesítés:
+	-Regisztráció és bejelentkezés
+
+Kosár és fizetés:
+	-Kosár és többféle fizetési lehetőség
+
+Nekem Admin felület:
+	-Termék hozzáadása, szerkeztése, törlése
+	-Eladási statisztikák
+	-Rendelés nyomon követése
