@@ -21,6 +21,8 @@ SET time_zone = "+00:00";
 -- Adatbázis: `techshop`
 --
 
+CREATE DATABASE TechShop;
+USE TechShop;
 -- --------------------------------------------------------
 
 --
