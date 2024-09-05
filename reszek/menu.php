@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css-script/menu.css">
+<link rel="stylesheet" href="./css-script/menu.css">
 
 <div class="menu container-fluid">
     <div class="menu-content">
