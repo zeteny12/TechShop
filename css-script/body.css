@@ -3,4 +3,10 @@ body{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    background: -moz-linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("../TechWeb ötletek/Felhasznált-képek/háttér.jpg");
+    background-attachment: fixed;    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
 }

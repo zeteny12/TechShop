@@ -31,7 +31,7 @@
 .udvozlo-alcim {
     margin-bottom: 7%;
     font-style: italic;
-    color: #737373;
+    color: #b6b0b0;
 }
 
 .udvozlo-hosszabb-szoveg p {
@@ -47,12 +47,12 @@
     float: left;
     width: 200px;
     height: 70px;
-    background: white;
+    background: transparent;
 }
 
 #felfedez-gomb {
-    background-color: blueviolet;
-    border-color: blueviolet;
+    background-color: rgba(84, 31, 133, 0.75);
+    border-color: rgba(84, 31, 133, 0.75);
     border-radius: 13px;
     margin: 6% 16% 6% 16%;
     font-size: 20px;
