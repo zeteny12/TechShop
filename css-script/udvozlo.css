@@ -35,6 +35,7 @@
 }
 
 .udvozlo-hosszabb-szoveg p {
+    font-size: larger;
     text-align: justify;
     margin: 0;
 }
