@@ -1,45 +1,39 @@
-/* Az üdvözlő blokk */
 .udvozlo {
     margin-top: 80px;
+    min-height: 100vh;
 }
 
-/* A kép div-stílusa */
 .kep-div {
     position: relative; 
     width: 100%; 
-    height: auto; /* Automatikus magasság */
+    height: auto;
     overflow: hidden;
 }
 
-/* A kép stílusa */
 .udvozlo-kep {
     width: 100%; 
-    height: auto; /* Magasság arányosan */
+    height: auto;
     object-fit: cover; 
-    display: block; /* Blokkszintű elemként való megjelenítés */
+    display: block; 
     border-radius: 15px;
 }
 
-/* Főcím és alcím középre igazítása */
 .udvozlo-focim, .udvozlo-alcim {
     text-align: center;
 }
 
-/* Főcím stílus */
 .udvozlo-focim h1 {
     margin-top: 2%;
     font-size: 40px;
     font-weight: bold;
 }
 
-/* Alcím stílus */
 .udvozlo-alcim {
     margin-bottom: 7%;
     font-style: italic;
     color: #737373;
 }
 
-/* Hosszabb szöveg stílus */
 .udvozlo-hosszabb-szoveg p {
     text-align: justify;
     margin: 0;
@@ -49,7 +43,6 @@
     position: relative;
 }
 
-/* Üres elem stílus */
 .ures-elem {
     float: left;
     width: 200px;
@@ -57,7 +50,6 @@
     background: white;
 }
 
-/* Felfedez gomb stílus */
 #felfedez-gomb {
     background-color: blueviolet;
     border-color: blueviolet;

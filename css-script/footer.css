@@ -1,0 +1,45 @@
+.footer {
+    background-color: #000;
+    border-radius: 20px;
+    margin: 20px auto;
+    width: calc(100% - 40px);
+    padding: 2%;
+    color: #fff;
+}
+
+.rolunk-gyik-visszakuldes{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rolunk-gyik-visszakuldes-link{
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.rolunk-gyik-visszakuldes-link:hover{
+    color: #fff;
+}
+
+.social-media img{
+    height: 32px;
+}
+
+.social-media{
+    display: flex;
+    height: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.social-media img:hover{
+    transform: translateY(-5px);
+    transition: .3s;
+}
+
+.social-media img:not(:hover){
+    transition: .3s;
+}

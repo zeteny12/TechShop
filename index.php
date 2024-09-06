@@ -11,6 +11,7 @@ require_once './reszek/head.php';
     <?php
         require_once './reszek/menu.php';
         require_once './reszek/udvozlo.php';
+        require_once './reszek/footer.php';
     ?>
 </body>
 </html>
