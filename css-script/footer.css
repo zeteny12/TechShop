@@ -43,3 +43,38 @@
 .social-media img:not(:hover){
     transition: .3s;
 }
+
+/* Reszponzivitás */
+@media only screen and (max-width: 991px){
+    .footer{ 
+        margin: 0;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 920px){
+    .footer .row{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .footer .col-2, .col-6{
+        width: 100%;
+        justify-content: center;
+    }
+
+    .footer .col-6{
+        margin: 20px 0px 20px 0px;
+    }
+
+    .rolunk-gyik-visszakuldes, .social-media{
+        justify-content: space-evenly;
+    }
+
+    .footer .col-6 .rolunk-gyik-visszakuldes{
+        flex-wrap: wrap;
+    }
+}

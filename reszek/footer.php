@@ -7,7 +7,7 @@
             <div class="col-2">
                 <div class="ceg-adatai">
                     <h5>TechShop</h5>
-                    <h6>Telefonszám: +36 00 123 4567</h6>
+                    <h6>Telefonszám: +36-00-123-4567</h6>
                     <h6>E-mail: techshop@valami.com</h6>
                 </div>
             </div>
